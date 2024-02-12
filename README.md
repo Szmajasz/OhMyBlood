@@ -13,20 +13,8 @@ Blood Pressure Monitor is a simple iOS app written in Swift, designed for person
 
 ## Screenshots
 
-<div style="display: flex;">
-    <figure style="margin-right: 20px;">
-        <img src="Screenshots/mainView.png" alt="Home Screen" width="200">
-        <figcaption style="text-align: center; margin-top: 10px;">Home Screen</figcaption>
-    </figure>
-    <figure style="margin-right: 20px;">
-        <img src="Screenshots/statisticsView.png" alt="Statistics Screen" width="200">
-        <figcaption style="text-align: center; margin-top: 10px;">Statistics Screen</figcaption>
-    </figure>
-    <figure>
-        <img src="Screenshots/addView.png" alt="Details Screen" width="200">
-        <figcaption style="text-align: center; margin-top: 10px;">New Record Screen</figcaption>
-    </figure>
-</div>
+|![](Screenshots/mainView.png)<br>Home Screen|![](Screenshots/statisticsView.png)<br>Statistics Screen|![](Screenshots/addView.png)<br>New Record Screen|
+|:-:|:-:|:-:|
 
 ## Usage
 
